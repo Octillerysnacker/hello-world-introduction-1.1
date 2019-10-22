@@ -1,0 +1,6 @@
+{
+    "Id": "fpt.main.1.1",
+    "Name": "Hello World: Introduction (1.1)",
+    "VerifierFilepath": "verifier.jar",
+    "InstructionsFilepath": "./instructions.md"
+}
