@@ -1,0 +1,1 @@
+xcopy verifier\target\verifier.jar package\verifier.jar /i /y
